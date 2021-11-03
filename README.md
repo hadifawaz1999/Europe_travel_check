@@ -16,4 +16,6 @@ We will be using the [Eurostat dataset](https://ec.europa.eu/eurostat/web/gisco/
 
 ## Results
 
-![map.png](
+For example if a user only visited France and Italy he should have the list as follows : ``` visited_countries = ['FR','IT'] ``` and we will have this map as results:
+
+![map.png](https://github.com/hadifawaz1999/Europe_travel_check/blob/main/map.png)
