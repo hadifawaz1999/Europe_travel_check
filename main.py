@@ -82,4 +82,4 @@ for i in range(len(country_names)):
 # Plot everything
 
 plt.legend(fontsize=20)
-plt.savefig('level0.png')
+plt.savefig('map.png')
