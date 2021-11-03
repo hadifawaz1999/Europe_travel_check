@@ -2,7 +2,7 @@
 
 This code will output a map of Europe and differentiate between countries the user traveled to and the ones the user didn't. 
 
-The user should adjust the ``` visited_countries ``` list in ``` main.py ``` , the list should be only of country codes of 2 capital letters found [here](https://countrycode.org/).
+The user should adjust the ``` visited_countries ``` list in ``` main.py ``` , the list should be only of country codes of 2 capital letters found [here](https://publications.europa.eu/code/pdf/370000en.htm).
 
 ## Requirements
 
